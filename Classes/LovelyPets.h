@@ -1,10 +1,10 @@
-#ifndef _LOVELY_PETS_H__
+ï»¿#ifndef _LOVELY_PETS_H__
 #define _LOVELY_PETS_H__
 
 /// Tab Bar
 static const char* menuTitle[5] = 
 {
-	"·ÖÀà","ÃÈÍ¼","·¢ÏÖ","ÎÒµÄ",
+	"åˆ†ç±»","èŒå›¾","å‘ç°","æˆ‘çš„",
 };
 
 static const char* menuImageNormal[5] =

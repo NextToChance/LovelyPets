@@ -132,6 +132,7 @@ xcopy /Y /Q "$(ProjectDir)..\..\..\extensions\libwebsockets\win32\lib\*.*" "$(Ou
     <ClCompile Include="..\Classes\AppDelegate.cpp" />
     <ClCompile Include="..\Classes\ClassifyViewController.cpp" />
     <ClCompile Include="..\Classes\FirstViewController.cpp" />
+    <ClCompile Include="..\Classes\MainViewController.cpp" />
     <ClCompile Include="..\Classes\RootWindow.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
@@ -140,6 +141,7 @@ xcopy /Y /Q "$(ProjectDir)..\..\..\extensions\libwebsockets\win32\lib\*.*" "$(Ou
     <ClInclude Include="..\Classes\ClassifyViewController.h" />
     <ClInclude Include="..\Classes\FirstViewController.h" />
     <ClInclude Include="..\Classes\LovelyPets.h" />
+    <ClInclude Include="..\Classes\MainViewController.h" />
     <ClInclude Include="..\Classes\RootWindow.h" />
     <ClInclude Include="main.h" />
   </ItemGroup>

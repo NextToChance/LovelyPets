@@ -1,4 +1,4 @@
-#ifndef _CLASSIFY_VIEW_CONTROLLER_H__
+﻿#ifndef _CLASSIFY_VIEW_CONTROLLER_H__
 #define _CLASSIFY_VIEW_CONTROLLER_H__
 
 #include "CrossApp.h"
