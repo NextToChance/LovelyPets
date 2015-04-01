@@ -3,7 +3,7 @@
 
 #include "CrossApp.h"
 
-class MainViewController : public CAViewController
+class MainViewController : public CATabBarController
 {
 public:
 	virtual void viewDidLoad();
